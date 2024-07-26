@@ -1,8 +1,8 @@
 ## Hi there 👋
-🔭 Currently focused on personal growth and development
-🌱 I’m currently learning Machine Learning
-💬 Feel free to ask me anything here
-😄 Pronouns: He/Him
+- 🔭 Currently focused on personal growth and development.
+- 🌱 I’m currently learning Machine Learning.
+- 💬 Feel free to ask me anything here.
+- 😄 Pronouns: He/Him.
 
 <!--
 **tozameerkhan/tozameerkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
